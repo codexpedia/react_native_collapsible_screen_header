@@ -1,0 +1,12 @@
+{
+  "name": "react_native_collapsible_screen_header",
+  "displayName": "react_native_collapsible_screen_header",
+  "expo": {
+    "name": "react_native_collapsible_screen_header",
+    "slug": "react_native_collapsible_screen_header",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
